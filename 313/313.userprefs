@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{55029278-C67F-49B0-94EF-8B4CD705DD00}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="313/LoginActivity.cs" Line="17" Column="31" />
+      <File FileName="313/MainActivity.cs" Line="34" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.313 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_25_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
